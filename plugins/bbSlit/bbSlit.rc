@@ -1,0 +1,21 @@
+# ---- bbSlit.rc ----
+
+# slit window properties
+bbSlit.placement: CenterLeft
+bbSlit.position.x: 0
+bbSlit.position.y: 299
+bbSlit.direction: vertical
+
+bbSlit.alwaysOnTop: false
+bbSlit.autoHide: false
+bbSlit.autoRaise: true
+bbSlit.pluginToggle: true
+bbSlit.snapToEdge: true
+bbSlit.alpha.enabled: false
+bbSlit.alpha.value: 192
+bbSlit.puzzle: true
+bbSlit.alignment: 2
+bbSlit.basewidth: 50
+bbSlit.clickRaise: true
+bbSlit.setMargin: true
+bbSlit.order: 1
